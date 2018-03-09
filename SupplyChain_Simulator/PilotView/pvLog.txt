@@ -1,0 +1,863 @@
+Cannot open user map file: Void for reading!
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78b3b090 has zero value = -1.74 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@25bfe5fa has zero value = -1.74 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@7deb0a92 has zero value = -1.74 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@fd6d6a7 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@465e79b1 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@658e52ab has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@5c54d353 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@28fcc646 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@57f1eb0c has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@2639460b has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@65ec51c8 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@655fbd7d has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3fbf8fa8 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@3be65c24 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@78e7563f has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@401cdbdf has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 26.962643289403008
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 30.332973700578385
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 33.70330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 37.07363452292914
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 40.443964934104514
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 43.81429534527989
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 47.18462575645526
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 50.55495616763064
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 53.925286578806016
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 57.2956169899814
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 60.66594740115677
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 64.03627781233214
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 67.40660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 70.77693863468289
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 74.14726904585828
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 77.51759945703365
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@6ab32c63 has zero value = -3.48 location: 80.88792986820903
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 0.0
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 3.370330411175376
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 6.740660822350752
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 10.110991233526128
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 13.481321644701504
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 16.85165205587688
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 20.221982467052257
+java.awt.geom.GeneralPath@402fa4ad
+ >> PilotFlowPanel: Flow: PilotView.pfutils.Flow@1602a1e has zero value = -3.48 location: 23.59231287822763
+java.awt.geom.GeneralPath@402fa4ad
