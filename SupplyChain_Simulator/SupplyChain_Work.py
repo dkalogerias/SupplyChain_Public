@@ -148,7 +148,9 @@ for t in range(T):
     print('Day', t)
     # Introduce temporary hiccup
     if t == 32:
+        
         ID = 9781
+        store_KPro1 = cp.deepcopy(SupplierDict[ID].KPro)
         PastOutput = 3.5*170*int(np.minimum(1000,SupplierDict[ID].Value))
         PastDemand_Child = dict(zip(SupplierDict[ID].ChildrenLabels, \
                                      np.zeros((SupplierDict[ID].NumberOfChildren)))) 
@@ -160,7 +162,7 @@ for t in range(T):
         #ID = 9334
         ID = 9781
         #ID = 12298
-        store_KPro1 = cp.deepcopy(SupplierDict[ID].KPro)
+        
         # set cost of production to unrealistic height
         SupplierDict[ID].KPro = 100000000
         
