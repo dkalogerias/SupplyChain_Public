@@ -62,6 +62,7 @@ class Supplier:
             ProjectedShipments = dict(zip(self.ChildrenLabels, \
                                     np.zeros((self.NumberOfChildren, int(self.Horizon)))))
             # For each part in the list of shipments to the current supplier
+            #@E@# Note that I use PRE shipment list for this part
             for shipment in self.ShipmentList_PRE:
                 # Get where part comes from
                 childFrom = shipment.From
@@ -102,6 +103,8 @@ class Supplier:
         ExtDataFromParent = list(DataFromParent)
         ExtDataFromParent.append(DataFromParent[-1])
         ExtDataFromParent.append(DataFromParent[-1])
+        #@E@# One of the above is missing compared to older file. Also we use KPro in MIP, KPur seems unused tho
+        
         # Solve the MIP now!
         X_Values, UpStreamDemand, In, Out, Unmet = \
         Plan_LookaheadMIP(int(self.Horizon), self.NumberOfChildren, self.ChildrenLabels, self.ChildrenTrTimes,
@@ -121,6 +124,7 @@ class Supplier:
         # Generate DownStream_Info
         #self.DownStream_Info_POST = self.ProductionPlan
         # MET Demand
+        #@E@# Was this added by you before?
         self.DownStream_Info_POST = np.zeros((int(self.Horizon)))
         for t in range(int(self.Horizon)): 
             self.DownStream_Info_POST[t] = ExtDataFromParent[t] - Unmet[t]
@@ -179,6 +183,7 @@ class Supplier:
             Parent.ProdFailure[self.Label] += self.CurrentUnMet
             if MetDemandToday > 0:          
                 # Add new shipment to parent's list of shipments
+                #@E@# A shipment update is done to POST only to ensure no problem arises from ordering
                 Parent.ShipmentList_POST.append(LocalShipment(self.Label,
                                                          self.ParentTrTime,
                                                          MetDemandToday))                

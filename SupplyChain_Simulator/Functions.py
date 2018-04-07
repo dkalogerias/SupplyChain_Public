@@ -44,6 +44,7 @@ def Plan_LookaheadMIP(H, NumberOfChildren, ChildrenLabels, ChildrenTrTimes,
     # For loop implementation
     temp = []
     for t in range(H):
+        #@E@# Seems like KPro is used here, increasing KPro is how we create hiccup
         temp = temp + thetas[t] * U_Vars[t] + KO * RO_Vars[t] + KPro * X_Vars[t] + \
                lpSum(KI[child] * RI_Vars[t][child] for child in ChildrenLabels) + \
                lpSum(KPur[child] * UPD_Vars[t][child] for child in ChildrenLabels)

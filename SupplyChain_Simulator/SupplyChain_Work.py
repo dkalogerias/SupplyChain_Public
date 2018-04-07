@@ -34,6 +34,7 @@ with open('ValueRecorder.pf') as f:
         data = line.split()
         IDList.append(int(data[0]))
 #######################################
+## Production function for parallelization
 #######################################################
 def ParallelUpdate(ID):
     #print('Day', t, '/ Updating Suppler ID:', int(ID))
@@ -146,7 +147,7 @@ for t in range(T):
     startDay = time.time() # Also start measuring Supplier update time PER day
     print('============================================')
     print('Day', t)
-    # Introduce temporary hiccup
+    #@E@# Introduce temporary hiccup
     if t == 32:
         
         ID = 9781
@@ -158,12 +159,9 @@ for t in range(T):
                 PastDemand_Child[child] = SupplierDict[child].ProductionPlan[1]
         PastDemand_Parent = int(SupplierDict[ID].ProductionPlan[1]*int(np.minimum(1000,SupplierDict[ID].Value)))
     if t >= 33 and t < 66:
-        #ID = 10972
-        #ID = 9334
         ID = 9781
-        #ID = 12298
-        
-        # set cost of production to unrealistic height
+       
+        #@E@# set cost of production to unrealistic height
         SupplierDict[ID].KPro = 100000000
         
         HiccupFile.write(' '.join([str(int(SupplierDict[ID].Label)), \
@@ -186,17 +184,11 @@ for t in range(T):
                                                str(PastDemand_Parent -\
                                                    int(SupplierDict[ID].ProductionPlan[0]*int(np.minimum(1000,SupplierDict[ID].Value)))\
                                                    ), '\n']))
-        #ID = 11971
-        #store_ProdCap2 = cp.deepcopy(SupplierDict[ID].KPro)
-        #SupplierDict[ID].KPro = 100000000
-        
+    # Stop hiccuping  
     if t == 66:
-        #ID = 9334
         ID = 9781
-        #ID = 12298
         SupplierDict[ID].KPro = store_KPro1
-        #ID = 11971
-        #SupplierDict[ID].KPro = store_ProdCap2
+        
     # Update shipment list for EACH supplier
     for ID, value in SupplierDict.items():
         if SupplierDict[ID].NumberOfChildren != 0:
@@ -204,6 +196,7 @@ for t in range(T):
             for shipment in SupplierDict[ID].ShipmentList_PRE[:]:
                 # Update shipment in ShipmentList of current Supplier
                 shipment.LocalShipmentUpdate(SupplierDict[ID])
+        #@E@# All update will be processed from PRE and recorded on POST to prevent error from ID ordering
         SupplierDict[ID].ShipmentList_POST = cp.deepcopy(SupplierDict[ID].ShipmentList_PRE)
     # Produce Parts (and "PRIVATELY" update attributes) for EACH Supplier
     
@@ -213,39 +206,49 @@ for t in range(T):
     #DaskInput = db.from_sequence(IDList)
     #DaskOutput = DaskInput.map(ParallelUpdate)
     #DaskOutput.compute()
-    for ID in IDList:
-       ParallelUpdate(ID)
+    #for ID in IDList:
+    #   ParallelUpdate(ID)
     ####################################################################################################
     # End Dask Parallelization
     ####################################################################################################
         # Produce Parts (and "PRIVATELY" update attributes) for EACH Supplier
-    #for ID, value in SupplierDict.items(): # This should be able to be performed in parallel
-    #    #print('Day', t, '/ Updating Suppler ID:', int(ID))
-    #    # Get label of parent to current Supplier
-    #    TheParent = SupplierDict[ID].ParentLabel
-    #    # Get the plans from all children to current Supplier
-    #    tempSpec = dict()
-    #    # ALSO: Compute TOTAL input inventory for current Supplier (with no children)
-    #    tempTotalInv = 0
-    #    if SupplierDict[ID].NumberOfChildren != 0:
-    #        for child in SupplierDict[ID].ChildrenLabels:
-    #            tempSpec[child] = SupplierDict[child].DownStream_Info_PRE
-    #            tempTotalInv += SupplierDict[ID].InputInventory[child]
-    #        # ALSO: Write InputInventoryFile for current Supplier (for PilotView)
-    #        InputInventoryFile.write(' '.join([str(int(SupplierDict[ID].Label)), \
-    #                                     str(int(SupplierDict[ID].Label)), \
-    #                                     str(24 * 60 * t), str(24 * 60), \
-    #                                     str(int(tempTotalInv)), '\n']))
-    #    # Produce parts for today and update Supplier
-    #    #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-    #    SupplierDict[ID].ProduceParts(SupplierDict[TheParent] if TheParent != -1 else -1,
-    #        DataFromChildren = tempSpec,
-    #        DataFromParent = SupplierDict[TheParent].UpStream_Info_PRE[ID] if TheParent != -1 else RootPlan[t : t + H])
+    for ID, value in SupplierDict.items(): # This should be able to be performed in parallel
+        #print('Day', t, '/ Updating Suppler ID:', int(ID))
+        # Get label of parent to current Supplier
+        TheParent = SupplierDict[ID].ParentLabel
+        # Get the plans from all children to current Supplier
+        tempSpec = dict()
+        # ALSO: Compute TOTAL input inventory for current Supplier (with no children)
+        tempTotalInv = 0
+        if SupplierDict[ID].NumberOfChildren != 0:
+            for child in SupplierDict[ID].ChildrenLabels:
+                tempSpec[child] = SupplierDict[child].DownStream_Info_PRE
+                tempTotalInv += SupplierDict[ID].InputInventory[child]
+                # ALSO: Write InputInventoryFile for current Supplier (for PilotView)
+            InputInventoryFile.write(' '.join([str(int(SupplierDict[ID].Label)), \
+                                               str(int(SupplierDict[ID].Label)), \
+                                               str(24 * 60 * t), str(24 * 60), \
+                                               str(int(SupplierDict[ID].OutputInventory)), '\n']))
+                                               #str(int(tempTotalInv)), '\n']))
+     
+                # ALSO: Write ValueInputInventoryFile for current Supplier (for PilotView)
+            ValueInputInventoryFile.write(' '.join([str(int(SupplierDict[ID].Label)), \
+                                                    str(int(SupplierDict[ID].Label)), \
+                                                    str(24 * 60 * t), str(24 * 60), \
+                                                    str(int(SupplierDict[ID].OutputInventory)*int(np.minimum(500,SupplierDict[ID].Value))), '\n']))
+                                                    #str(int(tempTotalInv)*int(SupplierDict[ID].Value)), '\n']))
+       
+        # Produce parts for today and update Supplier
+        #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
+        SupplierDict[ID].ProduceParts(SupplierDict[TheParent] if TheParent != -1 else -1,
+                    DataFromChildren = tempSpec,
+                    DataFromParent = SupplierDict[TheParent].UpStream_Info_PRE[ID] if TheParent != -1 else RootPlan[t : t + H])
         #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
     # Update PRE variables with POST variables
     for ID, value in SupplierDict.items():
         SupplierDict[ID].ShipmentList_PRE = cp.deepcopy(SupplierDict[ID].ShipmentList_POST)
         SupplierDict[ID].DownStream_Info_PRE = cp.deepcopy(SupplierDict[ID].DownStream_Info_POST)
+        #@E@# We wrote POST processing data over PRE
         SupplierDict[ID].UpStream_Info_PRE = cp.deepcopy(SupplierDict[ID].UpStream_Info_POST)
         # Write PartFlowFile for current Supplier (for PilotView)
         if SupplierDict[ID].NumberOfChildren != 0:
@@ -270,7 +273,7 @@ for t in range(T):
                                                   str(int(childrenFlows[child]*min(SupplierDict[child].Value,1000))), '\n']))
                                                   #str(int(childrenFlows[child]*min(SupplierDict[child].Value,max(SupplierDict[child].Value/10,10)))), '\n']))
                                                   
-        # Write UnMetFile for current Supplier (for PilotView)
+        #@E@# Write UnMetFile for current Supplier (for PilotView): Please check if algorithm here makes sense
         if SupplierDict[ID].ParentLabel != -1:
             if SupplierDict[SupplierDict[ID].ParentLabel].CurrentUnMet != 0:
                 UnMetFile.write(' '.join([str(int(SupplierDict[ID].ParentLabel)), \

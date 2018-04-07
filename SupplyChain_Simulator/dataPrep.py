@@ -206,13 +206,14 @@ def dataPrep(H):
                                 str(SupplierDict[ID].treeDepth), '\n']))
     # endfor
     LocFile.close()
+    # Recording ID List
     IDList = open('IDList.pf','w')
     for ID, value in SupplierDict.items():
        IDList.write(' '.join([str(int(ID)),  '\n']))
     IDList.close()
-    # Create a file to record value
+    # Create a file to record value of each product
     VR = open('ValueRecorder.pf','w') # Createe and open file (for PilotView)
-    # Now, we have to update from treeDepth 3 (leaves) back to root
+    #@E@# Now, we have to update from treeDepth 3 (leaves) back to root
     for depth in [3,2,1,0]:
         for ID, value in SupplierDict.items():
             if SupplierDict[ID].treeDepth == depth and depth != 0:
